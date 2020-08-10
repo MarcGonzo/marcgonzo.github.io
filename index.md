@@ -18,8 +18,8 @@ To watch the code review of my original project before going through the Artifac
   - [Software Engineering & Design](https://marcgonzo.github.io/Artifact%201%20narrative) to view the Software Engineering and Desgin Artifact of the project. 
   
 - **Artifact 2 Narrative**
-  - [Algortihms and Data Structures](https://github.com/MarcGonzo/marcgonzo.github.io/blob/master/Artifact%202%20narrative.md) to view the Algorithm and Data Structure Artifact of the project.
+  - [Algortihms and Data Structures](https://marcgonzo.github.io/Artifact%202%20narrative) to view the Algorithm and Data Structure Artifact of the project.
   
 - **Artifact 3 Narrative**
-  - [Databases](https://github.com/MarcGonzo/marcgonzo.github.io/blob/master/Artifact%203%20Narrative.md) to view the Database Artifact of the project.
+  - [Databases](https://marcgonzo.github.io/Artifact%203%20narrative) to view the Database Artifact of the project.
 
