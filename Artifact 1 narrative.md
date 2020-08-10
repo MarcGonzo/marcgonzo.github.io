@@ -1,7 +1,7 @@
 # **IT-145 Authentication System Artifact 1**
 
 ## Code
-This is the different classes that was built to showcase the Software Engineering and Desgin Artifact 
+This is the different classes that was built to showcase the Software Engineering and Desgin Artifact.
 
 [Authsystem](https://github.com/MarcGonzo/marcgonzo.github.io/blob/master/Authsystem.java)
 
