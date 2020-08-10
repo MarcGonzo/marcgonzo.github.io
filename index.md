@@ -21,5 +21,5 @@ To watch the code review of my original project before going through the Artifac
   - [Algortihms and Data Structures](https://marcgonzo.github.io/Artifact%202%20narrative) to view the Algorithm and Data Structure Artifact of the project.
   
 - **Artifact 3 Narrative**
-  - [Databases](https://marcgonzo.github.io/Artifact%203%20narrative) to view the Database Artifact of the project.
+  - [Databases](https://marcgonzo.github.io/Artifact%203%20Narrative) to view the Database Artifact of the project.
 
